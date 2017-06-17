@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CameraUseDemo</string>
+    <string name="photo">调用相机拍照</string>
+    <string name="video">调用相机录像</string>
+    <string name="api">通过相机的Api拍照</string>
+</resources>
